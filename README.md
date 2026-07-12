@@ -1,22 +1,20 @@
-# Calculator
+# Landing Page
 
-A simple calculator web application built using HTML, CSS, and JavaScript.
+A responsive landing page created using HTML and CSS.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Clear button
 - Responsive design
+- Modern UI layout
+- Attractive sections
+- Mobile friendly design
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Live Demo
-(Add your GitHub Pages link here)
+(Add your GitHub Pages link)
 
 ## Author
 Suresh Kumar
+
